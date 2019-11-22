@@ -1,2 +1,0 @@
-# VueSideBarMenu
-Created with CodeSandbox
